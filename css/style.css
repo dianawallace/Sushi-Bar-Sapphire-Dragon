@@ -10,3 +10,14 @@ body {
 .primary-color {
   color: #e05263
 }
+
+.info h2 {
+  word-spacing: 0.6rem;
+}
+
+.info a {
+  transition: color 2s ease-in-out;
+}
+.info a:hover {
+  color: #69a2b0;
+}
