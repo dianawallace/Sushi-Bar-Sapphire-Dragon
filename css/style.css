@@ -1,4 +1,12 @@
 
+.info {
+  background: #fae3e3
+}
+
 body {  
   font-family: 'Mr Dafoe', cursive;
+}
+
+.primary-color {
+  color: #e05263
 }
