@@ -21,3 +21,14 @@ body {
 .info a:hover {
   color: #69a2b0;
 }
+
+/*#### Header ####*/
+
+#header {
+  min-height: calc(100vh - 94px);
+  background: url(../img/banner-bkg.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
