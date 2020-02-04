@@ -36,3 +36,10 @@ body {
 .height-90 {
   min-height: calc(100vh - 94px);
 }
+
+.main-btn {
+  color: #e05263;
+  font-size 2rem; 
+  border: 2px solid #e05263;
+  transition: all is ease-in-out;
+}
