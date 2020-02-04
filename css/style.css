@@ -43,3 +43,9 @@ body {
   border: 2px solid #e05263;
   transition: all is ease-in-out;
 }
+
+.main-btn:hover {
+  color: #e05263;
+  border: 2px solid #fae3e3;
+  background: #fae3e3;
+}
