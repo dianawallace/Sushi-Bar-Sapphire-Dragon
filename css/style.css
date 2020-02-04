@@ -32,3 +32,7 @@ body {
   background-attachment: fixed;
   background-repeat: no-repeat;
 }
+
+.height-90 {
+  min-height: calc(100vh - 94px);
+}
