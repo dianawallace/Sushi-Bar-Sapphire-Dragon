@@ -8,7 +8,9 @@ body {
 }
 
 .primary-color {
-  color: #e05263
+  color: #e05263;
+  border-top: 6px dotted pink;
+  border-bottom: 6px dotted pink;
 }
 
 .info h2 {
@@ -38,6 +40,24 @@ body {
   min-height: calc(100vh - 94px);
 }
 
+.banner h1:after {
+    
+}
+
+@keyframes fromLeft {
+  0%{
+    transform: translateX(-100px);
+    opacity: 0;
+  }
+  50%{
+    transform: translateX(30px);
+  }
+  100%{
+    transform: translateX(0);
+    opacity: 1;
+  }
+
+}
 
 
 .main-btn {
