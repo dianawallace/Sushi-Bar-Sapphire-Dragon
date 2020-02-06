@@ -8,7 +8,10 @@ body {
 }
 
 .primary-color {
-  color: #e05263;
+  color: #e05263;  
+}
+
+.dotted-border {
   border-top: 6px dotted pink;
   border-bottom: 6px dotted pink;
 }
