@@ -67,6 +67,12 @@ body {
   color: #fae3e3;
 }
 
+.header-link:hover {
+  color: #e05263;
+  border: 2px solid #fae3e3;
+  background: #fae3e3;
+}
+
 .order-here {
   font-size: 2rem;
 }
