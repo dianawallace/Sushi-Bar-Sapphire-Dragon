@@ -66,7 +66,6 @@ body {
 
 }
 
-
 .main-btn {
   color: #e05263;
   font-size 2rem; 
@@ -78,6 +77,29 @@ body {
   color: #e05263;
   border: 2px solid #ffcab1;
   background: #ffcab1;
+}
+
+.sushi-btn {
+  animation: fromRight;
+  animation-duration: 4s;
+  animation-delay: 2s;
+  opacity: 0;
+  animation-fill-mode: forwards;
+}
+
+@keyframes fromRight {
+  0%{
+    transform: translateX(100px);
+    opacity: 0;
+  }
+  50%{
+    transform: translateX(-30px);
+  }
+  100%{
+    transform: translateX(0);
+    opacity: 1;
+  }
+
 }
 
 .header-link {
