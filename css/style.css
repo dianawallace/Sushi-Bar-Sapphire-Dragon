@@ -1,6 +1,6 @@
 
 .info {
-  background: #fae3e3
+  background: #ffcab1;
 }
 
 body {  
@@ -12,8 +12,8 @@ body {
 }
 
 .dotted-border {
-  border-top: 6px dotted pink;
-  border-bottom: 6px dotted pink;
+  border-top: 6px dotted #ffcab1;
+  border-bottom: 6px dotted #ffcab1;
 }
 
 .info h2 {
@@ -43,8 +43,12 @@ body {
   min-height: calc(100vh - 94px);
 }
 
-.banner h1:after {
-    
+.banner h1 {
+  animation: fromLeft;
+  animation-duration: 4s;
+  animation-delay: 2s;
+  opacity: 0;
+  animation-fill-mode: forwards;    
 }
 
 @keyframes fromLeft {
@@ -72,8 +76,8 @@ body {
 
 .main-btn:hover {
   color: #e05263;
-  border: 2px solid #fae3e3;
-  background: #fae3e3;
+  border: 2px solid #ffcab1;
+  background: #ffcab1;
 }
 
 .header-link {
@@ -87,13 +91,13 @@ body {
   }
 
 .header-link {
-  color: #fae3e3;
+  color: #ffcab1;
 }
 
 .header-link:hover {
   color: #e05263;
-  border: 2px solid #fae3e3;
-  background: #fae3e3;
+  border: 2px solid #ffcab1;
+  background: #ffcab1;
 }
 
 .order-here {
