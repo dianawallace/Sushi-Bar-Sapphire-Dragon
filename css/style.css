@@ -110,10 +110,24 @@ body {
   background: #e05263;
   border-radius: 10px;
   transition: all 2s ease;
+  animation: fromBottom;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
   }
 
 .header-link {
   color: #ffcab1;
+}
+@keyframes fromBottom {
+  0%{
+  transform: translateY(-10px);
+  }
+50% {
+  transform: translateY(10px);
+  }
+100% {
+  transform: translateY(-10px);
+  }
 }
 
 .header-link:hover {
