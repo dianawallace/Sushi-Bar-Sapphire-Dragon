@@ -24,7 +24,7 @@ body {
   transition: color 2s ease-in-out;
 }
 .info a:hover {
-  color: #69a2b0;
+  color: #2F2377;
 }
 
 /*#### Header ####*/
@@ -68,7 +68,7 @@ body {
 
 .main-btn {
   color: #e05263;
-  font-size 2rem; 
+  font-size: 2rem; 
   border: 2px solid #e05263;
   transition: all 1s ease-in-out;
 }
