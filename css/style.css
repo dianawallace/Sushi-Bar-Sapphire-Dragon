@@ -142,6 +142,10 @@ body {
 
 /*** Menu Items ***/
 
+#special-items {
+  background: #ffcab1
+}
+
 .item-container {
   position: relative;
   /* for the link */
