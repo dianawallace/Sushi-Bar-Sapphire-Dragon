@@ -139,3 +139,13 @@ body {
 .order-here {
   font-size: 2rem;
 }
+
+/*** Menu Items ***/
+
+.item-container {
+  position: relative;
+  /* for the link */
+  overflow: hidden;
+  background: linear-gradient(rgb(224, 82, 99),rgb(224, 82, 99));
+  transition: all 2s ease;
+}
