@@ -175,3 +175,7 @@ body {
   transition: all 2s ease;
   opacity: 0;
 }
+
+.item-container:hover .item-link {
+  opacity: 1;
+}
