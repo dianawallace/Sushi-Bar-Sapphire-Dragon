@@ -186,3 +186,7 @@ body {
   background: #ffcab1;
   color: #e05263;
 }
+.item-container:hover {
+  outline: 10px solid #e05263;
+  outline-offset: 0.8rem;
+}
