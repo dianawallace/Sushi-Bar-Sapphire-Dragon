@@ -173,9 +173,16 @@ body {
   border-top: 3px solid #e05263;
   border-bottom: 3px solid #e05263;
   transition: all 2s ease;
-  opacity: 0;
+  /*opacity: 0;*/
 }
 
 .item-container:hover .item-link {
   opacity: 1;
+}
+
+.item-link:hover {
+  color: #ffcab1;
+  border: 3px solid #ffcab1;
+  background: #ffcab1;
+  color: #e05263;
 }
