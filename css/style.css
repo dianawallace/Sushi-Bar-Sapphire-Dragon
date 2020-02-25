@@ -234,3 +234,20 @@ body {
   top: 20%;
   z-index: 10;
 }
+
+.img-3 {
+  left: 40%;
+  top: 45%;
+  z-index: 20;
+}
+
+.img-4 {
+  left: 40%;
+  top: 0%; 
+}
+
+.img-5 {
+  left: 0%;
+  top: 45%;
+}
+
