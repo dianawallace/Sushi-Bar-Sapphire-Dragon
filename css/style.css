@@ -267,6 +267,10 @@ body {
   opacity: 0.5;
 }
 
+.carousel {
+  background-color: #ffcab1;
+}
+
 .review-img {
   width: 150px;
 }
