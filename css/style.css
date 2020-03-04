@@ -282,3 +282,9 @@ body {
   width: 150px;
 }
 
+/***team***/
+
+.team-icons a {
+  color: #e05263;
+  transition: all 2s ease-in-out;
+}
