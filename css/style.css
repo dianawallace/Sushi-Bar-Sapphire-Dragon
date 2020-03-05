@@ -289,3 +289,7 @@ body {
   transition: all 2s ease-in-out;
 }
 
+.team-icons a:hover {
+  color: rgb(114, 113, 113);
+  transform: translateY(-5px);
+}
