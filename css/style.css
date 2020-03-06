@@ -293,3 +293,7 @@ body {
   color: rgb(114, 113, 113);
   transform: translateY(-5px);
 }
+
+#team {
+  background-color: #ffcab1;
+}
