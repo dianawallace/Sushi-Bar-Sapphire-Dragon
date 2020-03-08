@@ -304,3 +304,9 @@ body {
   min-height: 60vh;  
 }
 
+.embed-responsive-21by9::before {
+  padding-top: 18px;
+}
+
+
+
