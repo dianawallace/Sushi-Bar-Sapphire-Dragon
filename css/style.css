@@ -297,3 +297,10 @@ body {
 #team {
   background-color: #ffcab1;
 }
+
+/*****contact*****/
+
+.height-60 {
+  min-height: 60vh;  
+}
+
