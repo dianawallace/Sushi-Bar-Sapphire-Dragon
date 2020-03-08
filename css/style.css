@@ -308,5 +308,8 @@ body {
   padding-top: 18px;
 }
 
-
+#contact .card {
+  background:#ffcab1;
+  transition: all 2s ease;
+}
 
