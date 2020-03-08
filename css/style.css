@@ -313,3 +313,7 @@ body {
   transition: all 2s ease;
 }
 
+#contact .card:hover {
+  background: #DF928E;
+}
+
