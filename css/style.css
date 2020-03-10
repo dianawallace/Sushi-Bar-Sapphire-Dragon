@@ -331,6 +331,10 @@ body {
   color: #606060;
 }
 
+#contact .card input::placeholder {
+  color: #606060;
+}
+
 
 
 
