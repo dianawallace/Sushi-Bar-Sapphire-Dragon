@@ -347,7 +347,13 @@ body {
   border-color: #e05263;
 }
 
+/*****footers*****/
 
+#back-to-top {
+  background: #ffcab1;
+  border-radius: 10px;
+  display: inline-block;
+}
 
 
 
