@@ -148,6 +148,11 @@ body {
   transition: all 1s ease;
 }
 
+.navbar-background {
+  padding: 5px 20px;
+}
+
+
 /*** Menu Items ***/
 
 #special-items {
