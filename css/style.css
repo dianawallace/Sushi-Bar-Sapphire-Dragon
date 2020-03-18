@@ -161,6 +161,13 @@ body {
   color: #2F2377;
 }
 
+.nav-link {
+  color: #e05263;
+  text-decoration: none;
+  transition: all 2s ease;
+  font-size: 23px;
+}
+
 
 /*** Menu Items ***/
 
