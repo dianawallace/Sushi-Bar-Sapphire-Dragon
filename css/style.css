@@ -168,6 +168,10 @@ body {
   font-size: 23px;
 }
 
+.nav-link:hover {
+  color: #2f2377;
+}
+
 
 /*** Menu Items ***/
 
