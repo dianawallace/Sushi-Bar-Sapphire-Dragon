@@ -172,6 +172,13 @@ body {
   color: #2f2377;
 }
 
+.nav-btn {
+  background: transparent;
+  color: #e05263;
+  border: 2px solid #e05263;
+  font-size: 23px;
+}
+
 
 /*** Menu Items ***/
 
