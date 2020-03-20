@@ -192,6 +192,13 @@ body {
   transition: all 2s ease;
 }
 
+.bar {
+  width: 30px;
+  height: 3px;
+  margin: 5px;
+  background: #e05263;
+}
+
 /*** Menu Items ***/
 
 #special-items {
