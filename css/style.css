@@ -186,6 +186,11 @@ body {
   transform: rotate(10deg);
 }
 
+.toggler-btn {
+  border: 2px solid #e05263;
+  padding: 5px;
+  transition: all 2s ease;
+}
 
 /*** Menu Items ***/
 
