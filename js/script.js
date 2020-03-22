@@ -26,7 +26,7 @@ $(document).ready(function () {
 
     let target = $(this).attr('href');
 
-    $('html, body').animate({
+    $('html, body').stop().animate({
       scrollTop: $(target).offset().top - 25
     }, 3000);
 
