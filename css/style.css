@@ -241,10 +241,10 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
-  color: #e05263;
+  color: #ffcab1;
   font-size: 2rem;
-  border-top: 3px solid #e05263;
-  border-bottom: 3px solid #e05263;
+  border-top: 3px solid #ffcab1;
+  border-bottom: 3px solid #ffcab1;
   transition: all 2s ease;
   /*opacity: 0;*/
 }
